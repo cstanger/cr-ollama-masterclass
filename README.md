@@ -2,6 +2,9 @@
 
 Learn how deploy and run Cloud Run and utilize serverless GPUs to use Ollama and an Open WebUI
 
+![Tutorial architecture image](.journey/architecture.png)
+
+
 Welcome to this hands-on tutorial on how to get started with applications on
 Google Cloud.
 
